@@ -1,7 +1,7 @@
 # EvaDB_Vision_EXT
 Some computer vision extensions to EvaDB and an example of using them instead of training an ML model to solve it.
 ## Instructions:
-  1. ADD `blob_detector.py`, `grayscale.py`, `high_pass.py`, `moment.py`, and `threshold.py` to the `.../evadb/functions/ndarray` folder of your evadb library location.
+  1. Add `blob_detector.py`, `grayscale.py`, `high_pass.py`, `moment.py`, and `threshold.py` to the `.../evadb/functions/ndarray` folder of your evadb library location.
   2. The `Concrete_detector.py` will process every image in [Image](https://github.com/mohammadhosseinipour/EvaDB_Vision_EXT/tree/main/Images) folder with `.jpeg` format!
   3. That's it!
 
