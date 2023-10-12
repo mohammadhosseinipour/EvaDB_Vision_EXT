@@ -1,0 +1,5 @@
+evadb==0.3.7
+matplotlib==3.8.0
+numpy==1.26.0
+opencv_python==4.8.1.78
+pandas==2.1.1
